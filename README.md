@@ -1,3 +1,5 @@
+# NOTE: this fork just has an updated CMakeLists.txt.
+
 # Portable File Dialogs
 
 A free C++11 file dialog library.
